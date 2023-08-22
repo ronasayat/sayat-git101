@@ -6,7 +6,16 @@ To Do: Implement submit and cancel functionality -->
 <html>
 <head>
     <title>Login</title>
-
+    <script>
+        function onLoginBtnClick()
+        {
+        alert(document.getElementById("txtUsername").value);
+        }
+        function onClearBtnClick()
+        {
+        document.getElementById("txtUsername").value = "";
+        }
+        </script>
 </head>
 <body>
 <form class="records">

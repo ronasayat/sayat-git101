@@ -5,6 +5,3 @@ this is my second git change :DD
 
 Shiela Argarin
 IT1332L :)
-
-
-THIS IS MAIN
